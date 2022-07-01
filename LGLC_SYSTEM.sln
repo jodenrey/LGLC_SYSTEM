@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGLC_SYSTEM", "LGLC_SYSTEM\LGLC_SYSTEM.csproj", "{0AA8FE8C-F63C-4E0F-9D15-0481C032A7B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Little Garden Learning Center", "Little Garden Learning Center\Little Garden Learning Center.vdproj", "{6C44F07C-D9B0-4B40-84E9-A9C854678AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA8FE8C-F63C-4E0F-9D15-0481C032A7B8}.Debug|x86.ActiveCfg = Debug|x86
+		{0AA8FE8C-F63C-4E0F-9D15-0481C032A7B8}.Debug|x86.Build.0 = Debug|x86
+		{0AA8FE8C-F63C-4E0F-9D15-0481C032A7B8}.Release|x86.ActiveCfg = Release|x86
+		{0AA8FE8C-F63C-4E0F-9D15-0481C032A7B8}.Release|x86.Build.0 = Release|x86
+		{6C44F07C-D9B0-4B40-84E9-A9C854678AFA}.Debug|x86.ActiveCfg = Debug
+		{6C44F07C-D9B0-4B40-84E9-A9C854678AFA}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F51417-2D28-4124-818A-40255D20232B}
+	EndGlobalSection
+EndGlobal

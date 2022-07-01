@@ -1,0 +1,256 @@
+D:\KiddieCare\KiddieCare\bin\Debug\KiddieCare.exe
+D:\KiddieCare\KiddieCare\bin\Debug\KiddieCare.pdb
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.Billing.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.fillUpForm.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAboutUs.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessAdjustTime.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessCode.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAddTeacher.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAdjustTime.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAuditTrail.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmBilling.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmCheckdate.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmDiscount.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmDownpayment.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmEnrollment.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmFee.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmFill.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmGradeLvlMaintenance.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmList.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmListEnrolless.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmLogin.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmLogTrail.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmMain.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmManagement.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPay.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPayment.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPaymentSetting.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPrintList.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmReadyEnroll.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmReport.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmRoomMaintenance.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSchedPay.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSearch.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSection.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSubject.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmTime.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmTimeSched.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmUserSetting.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmYearMaintenance.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.maintenance.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.Properties.Resources.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.StatementOFAccount.resources
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.csproj.GenerateResource.Cache
+D:\KiddieCare\KiddieCare\obj\x86\Debug\RdlCompile.cache
+D:\KiddieCare\KiddieCare\obj\x86\Debug\RdlCompile.compiled
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.exe
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.pdb
+D:\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.exe
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.pdb
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\bin\Debug\KiddieCare.exe
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\bin\Debug\KiddieCare.pdb
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.Billing.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.fillUpForm.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAboutUs.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessAdjustTime.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessCode.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAddTeacher.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAdjustTime.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAuditTrail.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmBilling.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmCheckdate.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmDiscount.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmDownpayment.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmEnrollment.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmFee.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmFill.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmGradeLvlMaintenance.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmList.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmListEnrolless.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmLogin.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmLogTrail.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmMain.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmManagement.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPay.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPayment.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPaymentSetting.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPrintList.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmReadyEnroll.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmReport.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmRoomMaintenance.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSchedPay.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSearch.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSection.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSubject.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmTime.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmTimeSched.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmUserSetting.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmYearMaintenance.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.maintenance.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.Properties.Resources.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.StatementOFAccount.resources
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\RdlCompile.cache
+C:\Users\USER\Documents\Tutorial vb.net\KiddieCare\KiddieCare\obj\x86\Debug\RdlCompile.compiled
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.exe
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.pdb
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\bin\Debug\KiddieCare.exe
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\bin\Debug\KiddieCare.pdb
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.Billing.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.fillUpForm.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAboutUs.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessAdjustTime.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessCode.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAddTeacher.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAdjustTime.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmAuditTrail.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmBilling.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmCheckdate.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmDiscount.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmDownpayment.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmEnrollment.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmFee.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmFill.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmGradeLvlMaintenance.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmList.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmListEnrolless.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmLogin.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmLogTrail.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmMain.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmManagement.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPay.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPayment.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPaymentSetting.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmPrintList.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmReadyEnroll.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmReport.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmRoomMaintenance.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSchedPay.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSearch.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSection.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmSubject.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmTime.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmTimeSched.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmUserSetting.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.frmYearMaintenance.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.maintenance.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.Properties.Resources.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.StatementOFAccount.resources
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\KiddieCare.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\RdlCompile.cache
+C:\Users\USER\Desktop\KiddieCare\KiddieCare\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csprojAssemblyReference.cache
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.Billing.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.fillUpForm.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAboutUs.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessAdjustTime.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessCode.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAddTeacher.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAdjustTime.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAuditTrail.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmBilling.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmCheckdate.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmDiscount.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmDownpayment.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmEnrollment.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmFee.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmFill.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmGradeLvlMaintenance.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmList.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmListEnrolless.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmLogin.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmLogTrail.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmMain.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmManagement.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPay.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPayment.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPaymentSetting.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPrintList.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmReadyEnroll.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmReport.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmRoomMaintenance.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSchedPay.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSearch.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSection.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSubject.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmTime.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmTimeSched.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmUserSetting.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmYearMaintenance.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.maintenance.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.Properties.Resources.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.StatementOFAccount.resources
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csproj.GenerateResource.cache
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csproj.CoreCompileInputs.cache
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.exe
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.pdb
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\KiddieCare.exe.config
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\KiddieCare.exe
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\KiddieCare.pdb
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jodenrey\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csproj.CopyComplete
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\KiddieCare.exe.config
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\KiddieCare.exe
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\KiddieCare.pdb
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.Billing.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.fillUpForm.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAboutUs.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessAdjustTime.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAccessCode.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAddTeacher.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAdjustTime.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmAuditTrail.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmBilling.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmCheckdate.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmDiscount.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmDownpayment.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmEnrollment.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmFee.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmFill.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmGradeLvlMaintenance.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmList.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmListEnrolless.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmLogin.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmLogTrail.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmMain.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmManagement.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPay.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPayment.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPaymentSetting.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmPrintList.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmReadyEnroll.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmReport.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmRoomMaintenance.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSchedPay.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSearch.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSection.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmSubject.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmTime.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmTimeSched.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmUserSetting.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.frmYearMaintenance.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.maintenance.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.Properties.Resources.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.StatementOFAccount.resources
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.csproj.CopyComplete
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.exe
+C:\Users\Admin\Desktop\Enrollment and Billing System\KiddieCare\obj\x86\Debug\KiddieCare.pdb
